@@ -30,7 +30,7 @@ Existen **tres tipos de enemigos** con distintos patrones de ataque. Para avanza
 
 ## Captura de Pantalla
 
-(Añadir imagen aquí)
+![Imagen de ejemplo](screenshot.png)
 
 ## Instalación
 
